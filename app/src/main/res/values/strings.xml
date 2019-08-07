@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_name">Roll</string>
+    <string name="content_des">logo</string>
+    <string name="contdes2">leftdice</string>
+    <string name="contdes3">rightdice</string>
+</resources>
